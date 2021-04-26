@@ -3,12 +3,12 @@
         "name":"ADB Tool Kits Installer",
         "id":"1",
         "email":"https://petroshev.github.io/f-droid/apk/ADBInstaller_2.2_14-23-42.apk",
-        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/crixec.adbtoolkitsinstall.6.png"
+        "icon": "crixec.adbtoolkitsinstall.6.png"
     },
     {
         "name":"ADB Shellkit",
         "id":"1",
         "email":"https://petroshev.github.io/f-droid/apk/ADB_Shellkit_5.0.apk",
-        "icon": "https:/a/petroshev.github.io/f-droid/repo/icons-640/net.kwatts.android.droidcommandpro.50.png"
+        "icon": "net.kwatts.android.droidcommandpro.50.png"
     }
 ]}
