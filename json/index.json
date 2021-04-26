@@ -10,5 +10,35 @@
         "version":"1",
         "url":"https://petroshev.github.io/f-droid/apk/ADB_Shellkit_5.0.apk",
         "icon": "https://petroshev.github.io/f-droid/repo/icons-640/net.kwatts.android.droidcommandpro.50.png"
+    },
+    {
+        "title":"HVV",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/HVV.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/de.eos.uptrade.android.fahrinfo.hamburg.1000034.png"
+    },
+    {
+        "title":"Aptoide",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/Aptoide.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/cm.aptoide.pt.8385.png"
+    },
+    {
+        "title":"ASolid Explorer",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/Solid_Explorer_ad8VfK5.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/l.solidexplorer2.100147.png"
+    },
+    {
+        "title":"Titanium Backup",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/Titanium_Backup.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/om.keramidas.TitaniumBackup.397.png"
+    },
+    {
+        "title":"XDA Labs",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/XDA_Labs.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/com.xda.labs.11600.png"
     }
 ]}
