@@ -6,5 +6,37 @@
         "fileName":"nm8.apk",
         "icon": "https://petroshev.github.io/f-droid/icons/nm8.png",
 	"package": "uk.co.digitalquill.tankapp"
-    }
+    },
+    {
+        "title":"Aptoide",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/",
+	"fileName": "Aptoide.apk",
+        "icon": "https://petroshev.github.io/f-droid/repo/icons-640/cm.aptoide.pt.8385.png",
+	"package": "uk.co.digitalquill.tankapp"
+    },
+    {
+        "title":"ASolid Explorer",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/",
+        	"fileName": "Solid_Explorer_ad8VfK5.apk",
+	"icon": "https://petroshev.github.io/f-droid/repo/icons-640/pl.solidexplorer2.100147.png"
+    	"package": "uk.co.digitalquill.tankapp"
+},
+    {
+        "title":"Titanium Backup",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/",
+        	"fileName": "Titanium_Backup.apk",
+	"icon": "https://petroshev.github.io/f-droid/repo/icons-640/com.keramidas.TitaniumBackup.397.png"
+    	"package": "uk.co.digitalquill.tankapp"
+},
+    {
+        "title":"XDA Labs",
+        "version":"1",
+        "url":"https://petroshev.github.io/f-droid/apk/",
+        	"fileName": "XDA_Labs.apk",
+	"icon": "https://petroshev.github.io/f-droid/repo/icons-640/com.xda.labs.11600.png"
+	"package": "uk.co.digitalquill.tankapp"    
+}
 ]}
