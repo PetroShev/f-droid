@@ -1,10 +1,13 @@
-{"info":[
-    {
-        "title":"Repair Shop",
-        "version":"1.0.0",
-        "url":"https://petroshev.github.io/f-droid/apk/",
-        "fileName":"nm8.apk",
-        "icon": "https://petroshev.github.io/f-droid/icons/nm8.png",
-	"package": "uk.co.digitalquill.tankapp"
-    }
-]}
+{
+    "apkUrl": "https://petroshev.github.io/f-droid/apk/",
+    "iconUrl": "https://petroshev.github.io/f-droid/icons/",
+    "apps":[
+        {
+            "title":"Repair Shop",
+            "version":"1.0.0",
+            "apk":"nm8.apk",
+            "icon": "nm8.png",
+            "package": "uk.co.digitalquill.tankapp"
+        }
+    ]
+}
