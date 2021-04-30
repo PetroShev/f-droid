@@ -1,5 +1,4 @@
-{
-    "apps":[
+{"Apps":[
         {
             "title":"Repair Shop",
             "version":"1.0.0",
@@ -8,5 +7,4 @@
             "icon": "https://petroshev.github.io/f-droid/icons/nm8.png",
             "package": "uk.co.digitalquill.tankapp"
         }
-    ]
-}
+]}
