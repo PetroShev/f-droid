@@ -3,7 +3,7 @@
         {
             "title":"Repair Shop",
             "version":"1.0.0",
-            "url":"https://petroshev.github.io/f-droid/apk/nm8.apk",
+            "path":"https://petroshev.github.io/f-droid/apk/nm8.apk",
             "icon": "https://petroshev.github.io/f-droid/icons/nm8.png",
             "package": "uk.co.digitalquill.tankapp"
         }
