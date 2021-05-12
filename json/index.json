@@ -9,14 +9,14 @@
         },
         {
             "title":"Cylinder Data Entry",
-            "version":"2.0",
+            "version":"2.0.0",
             "path":"https://petroshev.github.io/f-droid/apk/module1.apk",
             "icon": "https://petroshev.github.io/f-droid/icons/nm8.png",
             "package": "uk.co.digitalquill.module1"
         },
         {
             "title":"Point of sale",
-            "version":"2.0",
+            "version":"2.0.0",
             "path":"https://petroshev.github.io/f-droid/apk/module6.apk",
             "icon": "https://petroshev.github.io/f-droid/icons/module6.png",
             "package": "uk.co.digitalquill.module6"
